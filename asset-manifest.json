@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.5b054a77.css",
-    "main.js": "/static/js/main.3fdcf566.js",
-    "index.html": "/index.html",
-    "main.5b054a77.css.map": "/static/css/main.5b054a77.css.map",
-    "main.3fdcf566.js.map": "/static/js/main.3fdcf566.js.map"
+    "main.css": "/snicker-react/static/css/main.5b054a77.css",
+    "main.js": "/snicker-react/static/js/main.3fdcf566.js",
+    "index.html": "/snicker-react/index.html",
+    "main.5b054a77.css.map": "/snicker-react/static/css/main.5b054a77.css.map",
+    "main.3fdcf566.js.map": "/snicker-react/static/js/main.3fdcf566.js.map"
   },
   "entrypoints": [
     "static/css/main.5b054a77.css",
