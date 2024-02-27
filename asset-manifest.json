@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/snicker-react/static/css/main.5b054a77.css",
+    "main.js": "/snicker-react/static/js/main.9f3ac242.js",
+    "index.html": "/snicker-react/index.html",
+    "main.5b054a77.css.map": "/snicker-react/static/css/main.5b054a77.css.map",
+    "main.9f3ac242.js.map": "/snicker-react/static/js/main.9f3ac242.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b054a77.css",
+    "static/js/main.9f3ac242.js"
+  ]
+}
